@@ -1,12 +1,16 @@
 ﻿Publikacja nr 1
 
 Tytuł: Publikacja o Git
-Autor: Marta Sap
+Autor: Marta Sap i Janek Kowalski
 
 Abstrakt
 Tu jakiś tekst
 
 Dane
+Nasze wspólne dane
+
 Analiza
+
 Wnioski
+(to napisze Janek)
 Literaturaa
