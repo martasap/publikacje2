@@ -1,7 +1,12 @@
-Publikacja nr 1
+﻿Publikacja nr 1
 
 Tytuł: Publikacja o Git
 Autor: Marta Sap
 
 Abstrakt
 Tu jakiś tekst
+
+Dane
+Analiza
+Wnioski
+Literaturaa
