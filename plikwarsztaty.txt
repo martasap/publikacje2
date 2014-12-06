@@ -1,6 +1,7 @@
 Publikacja nr 1
 
-Tytuł
-Autor
+Tytuł: Publikacja o Git
+Autor: Marta Sap
 
 Abstrakt
+Tu jakiś tekst
